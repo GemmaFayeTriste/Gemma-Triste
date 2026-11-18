@@ -3,7 +3,7 @@ MOOD JOURNAL
 Developer: Gemma Faye A Triste
 Section: BSINTE2A
 
-ABOUT THE PROJECT
+ABOUT THE PROJECT:
 It is a simple mobile apps that can track the people feelings day by day by listing their thoughts on this app and have some short note to inspire them.
 
 Features:
@@ -12,6 +12,6 @@ Features:
 3. Edit the thoughts
 4. Organizes feelings day by day
 
-Technology Uses
+Technology Uses:
 FlutterFlow
 Github
