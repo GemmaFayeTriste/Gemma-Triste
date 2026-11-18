@@ -1,6 +1,8 @@
 # Gemma-Triste
 MOOD JOURNAL
+
 Developer: Gemma Faye A Triste
+
 Section: BSINTE2A
 
 ABOUT THE PROJECT:
